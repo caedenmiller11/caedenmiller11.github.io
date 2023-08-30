@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(180, 210, 200);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+table{
+    border-collapse: collapse;
+}
+th, td{ 
+    border: 2px solid black;
+}
+th{
+    background-color: beige;
+}
